@@ -10,4 +10,4 @@
 
 |  S.No  |  Question  |  Difficulty  |  Date  |
 | --------------- | --------------- | --------------- | --------------- | 
-|        |        |        |        |
+| 1 | [Set Matrix Zeros](https://www.interviewbit.com/problems/set-matrix-zeros/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 1 |
