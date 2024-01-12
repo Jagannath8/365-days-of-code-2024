@@ -20,3 +20,4 @@
 | 8. | [Climbing Stairs](https://www.interviewbit.com/problems/climbing-stairs/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 9 |
 | 9. | [Max Distance](https://www.interviewbit.com/problems/max-distance/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 10 |
 | 10. | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 11 |
+| 11. | [Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 12 |
