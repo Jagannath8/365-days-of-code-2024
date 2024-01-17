@@ -25,3 +25,4 @@
 | 13. | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 14 |
 | 14. | [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 15 |
 | 15. | [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 16 |
+| 16. | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 17 |
