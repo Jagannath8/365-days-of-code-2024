@@ -26,3 +26,4 @@
 | 14. | [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 15 |
 | 15. | [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 16 |
 | 16. | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 17 |
+| 17. | [Largest Number](https://www.interviewbit.com/problems/largest-number/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 18 |
