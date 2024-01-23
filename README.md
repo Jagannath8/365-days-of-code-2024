@@ -31,3 +31,4 @@
 | 19. | [Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 20 |
 | 20. | [Next Permutation](https://www.interviewbit.com/problems/next-permutation/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 21 |
 | 21. | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 22 |
+| 22. | [Median of Array](https://www.interviewbit.com/problems/median-of-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 23 |
