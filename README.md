@@ -32,3 +32,4 @@
 | 20. | [Next Permutation](https://www.interviewbit.com/problems/next-permutation/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 21 |
 | 21. | [Wave Array](https://www.interviewbit.com/problems/wave-array/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 22 |
 | 22. | [Median of Array](https://www.interviewbit.com/problems/median-of-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 23 |
+| 23. | [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 24 |
