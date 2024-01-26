@@ -34,4 +34,4 @@
 | 22. | [Median of Array](https://www.interviewbit.com/problems/median-of-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 23 |
 | 23. | [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 24 |
 | 24. | [Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 25 |
-| 25. | [Matrix Search](https://www.interviewbit.com/problems/matrix-search/) | <!-- <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 26 |
+| 25. | [Matrix Search](https://www.interviewbit.com/problems/matrix-search/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 26 |
