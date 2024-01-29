@@ -37,3 +37,4 @@
 | 25. | [Matrix Search](https://www.interviewbit.com/problems/matrix-search/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 26 |
 | 26. | [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 27 |
 | 27. | [Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 28 |
+| 28. | [Maximum Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 29 |
