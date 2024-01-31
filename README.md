@@ -39,3 +39,4 @@
 | 27. | [Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 28 |
 | 28. | [Maximum Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 29 |
 | 29. | [Make equal elements Array](https://www.interviewbit.com/problems/make-equal-elements-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 30 |
+| 30. | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 31 |
