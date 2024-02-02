@@ -41,3 +41,4 @@
 | 29. | [Make equal elements Array](https://www.interviewbit.com/problems/make-equal-elements-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 30 |
 | 30. | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 31 |
 | 31. | [Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 01 |
+| 32. | [Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 02 |
