@@ -43,3 +43,4 @@
 | 31. | [Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 01 |
 | 32. | [Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 02 |
 | 33. | [Divide Integers](https://www.interviewbit.com/problems/divide-integers/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 03 |
+| 34. | [Matrix Median](https://www.interviewbit.com/problems/matrix-median/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 04 |
