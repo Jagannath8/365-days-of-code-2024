@@ -44,3 +44,4 @@
 | 32. | [Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 02 |
 | 33. | [Divide Integers](https://www.interviewbit.com/problems/divide-integers/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 03 |
 | 34. | [Matrix Median](https://www.interviewbit.com/problems/matrix-median/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 04 |
+| 35. | [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 05 |
