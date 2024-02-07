@@ -46,3 +46,4 @@
 | 34. | [Matrix Median](https://www.interviewbit.com/problems/matrix-median/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 04 |
 | 35. | [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 05 |
 | 36. | [Single Number](https://www.interviewbit.com/problems/single-number/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 06 |
+| 37. | [Count Total Set Bits](https://www.interviewbit.com/problems/count-total-set-bits/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 07 |
