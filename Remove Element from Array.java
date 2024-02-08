@@ -1,0 +1,6 @@
+public class Solution {
+	public int removeElement(ArrayList<Integer> a, int b) {
+        a.removeIf(t->t==b);
+        return a.size();
+	}
+}
