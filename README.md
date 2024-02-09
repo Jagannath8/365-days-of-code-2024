@@ -48,3 +48,4 @@
 | 36. | [Single Number](https://www.interviewbit.com/problems/single-number/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 06 |
 | 37. | [Count Total Set Bits](https://www.interviewbit.com/problems/count-total-set-bits/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 07 |
 | 38. | [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 08 |
+| 39. | [Atoi](https://www.interviewbit.com/problems/atoi/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 09 |
