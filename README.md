@@ -50,3 +50,4 @@
 | 38. | [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 08 |
 | 39. | [Atoi](https://www.interviewbit.com/problems/atoi/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 09 |
 | 40. | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 10 |
+| 41. | [Anagrams](https://www.interviewbit.com/problems/anagrams/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 11 |
