@@ -52,3 +52,4 @@
 | 40. | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 10 |
 | 41. | [Anagrams](https://www.interviewbit.com/problems/anagrams/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 11 |
 | 42. | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 12 |
+| 43. | [Find Permutation](https://www.interviewbit.com/problems/find-permutation/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 13 |
