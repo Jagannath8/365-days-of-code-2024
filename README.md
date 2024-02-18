@@ -56,3 +56,5 @@
 | 44. | [Add Two Numbers as Lists](https://www.interviewbit.com/problems/add-two-numbers-as-lists/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 14 |
 | 45. | [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 15 |
 | 46. | [Reorder List](https://www.interviewbit.com/problems/reorder-list/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 16 |
+| 47. | [List Cycle](https://www.interviewbit.com/problems/list-cycle/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 17 |
+| 48. | [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 18 |
