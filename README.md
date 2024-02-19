@@ -58,3 +58,4 @@
 | 46. | [Reorder List](https://www.interviewbit.com/problems/reorder-list/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 16 |
 | 47. | [List Cycle](https://www.interviewbit.com/problems/list-cycle/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 17 |
 | 48. | [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 18 |
+| 49. | [Count And Say](https://www.interviewbit.com/problems/count-and-say/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 19 |
