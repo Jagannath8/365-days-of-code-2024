@@ -63,3 +63,4 @@
 | 51. | [Remove Duplicates from Sorted List](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 21 |
 | 52. | [Maximum Ones After Modification](https://www.interviewbit.com/problems/maximum-ones-after-modification/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 22 |
 | 53. | [Palindrome List](https://www.interviewbit.com/problems/palindrome-list/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 23 |
+| 54. | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 24 |
