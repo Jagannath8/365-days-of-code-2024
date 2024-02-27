@@ -66,3 +66,4 @@
 | 54. | [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 24 |
 | 55. | [Reverse Alternate K Nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 25 |
 | 56. | [Kth Node From Middle](https://www.interviewbit.com/problems/kth-node-from-middle/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 26 |
+| 57. | [Sort Binary Linked List](https://www.interviewbit.com/problems/sort-binary-linked-list/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 27 |
