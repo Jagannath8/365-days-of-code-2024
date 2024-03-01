@@ -69,3 +69,4 @@
 | 57. | [Sort Binary Linked List](https://www.interviewbit.com/problems/sort-binary-linked-list/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 27 |
 | 58. | [Min Stack](https://www.interviewbit.com/problems/min-stack/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 28 |
 | 59. | [Reverse Link List II](https://www.interviewbit.com/problems/reverse-link-list-ii/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 29 |
+| 60. | [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 01 |
