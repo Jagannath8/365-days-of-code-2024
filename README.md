@@ -71,3 +71,4 @@
 | 59. | [Reverse Link List II](https://www.interviewbit.com/problems/reverse-link-list-ii/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 29 |
 | 60. | [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 01 |
 | 61. | [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 02 |
+| 62. | [Inorder Traversal](https://www.interviewbit.com/problems/inorder-traversal/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 03 |
