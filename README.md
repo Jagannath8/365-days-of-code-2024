@@ -75,3 +75,4 @@
 | 63. | [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 04 |
 | 64. | [Balanced Parantheses!](https://www.interviewbit.com/problems/balanced-parantheses/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 05 |
 | 65. | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 06 |
+| 66. | [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 07 |
