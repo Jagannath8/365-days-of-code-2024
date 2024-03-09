@@ -77,3 +77,4 @@
 | 65. | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 06 |
 | 66. | [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 07 |
 | 67. | [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 08 |
+| 68. | [Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 09 |
