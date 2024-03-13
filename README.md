@@ -81,3 +81,4 @@
 | 69. | [Combination Sum](https://www.interviewbit.com/problems/combination-sum/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 10 |
 | 70. | [Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 11 |
 | 71. | [Subset](https://www.interviewbit.com/problems/subset/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 12 |
+| 72. | [Combinations](https://www.interviewbit.com/problems/combinations/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 13 |
