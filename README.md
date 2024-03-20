@@ -88,4 +88,5 @@
 | 76. | [Fraction](https://www.interviewbit.com/problems/fraction/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 17 |
 | 77. | [Painter's Partition Problem](https://www.interviewbit.com/problems/painters-partition-problem/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 18 |
 | 78. | [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 19 |
+| 79. | [2 Sum](https://www.interviewbit.com/problems/2-sum/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 20 |
 
