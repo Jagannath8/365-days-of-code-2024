@@ -90,4 +90,5 @@
 | 78. | [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 19 |
 | 79. | [2 Sum](https://www.interviewbit.com/problems/2-sum/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 20 |
 | 80. | [Points on the Straight Line](https://www.interviewbit.com/problems/points-on-the-straight-line/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 21 |
+| 81. | [Copy List](https://www.interviewbit.com/problems/copy-list/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 22 |
 
