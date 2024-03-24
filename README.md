@@ -92,4 +92,5 @@
 | 80. | [Points on the Straight Line](https://www.interviewbit.com/problems/points-on-the-straight-line/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 21 |
 | 81. | [Copy List](https://www.interviewbit.com/problems/copy-list/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 22 |
 | 82. | [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 23 |
+| 83. | [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 24 |
 
