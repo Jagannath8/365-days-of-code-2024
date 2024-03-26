@@ -94,4 +94,5 @@
 | 82. | [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 23 |
 | 83. | [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 24 |
 | 84. | [LRU Cache](https://www.interviewbit.com/problems/lru-cache/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 25 |
+| 85. | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 26 |
 
