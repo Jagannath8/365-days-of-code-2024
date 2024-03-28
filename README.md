@@ -96,4 +96,5 @@
 | 84. | [LRU Cache](https://www.interviewbit.com/problems/lru-cache/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 25 |
 | 85. | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 26 |
 | 86. | [Balanced Binary Tree](https://www.interviewbit.com/problems/balanced-binary-tree/) | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 27 |
+| 87. | [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/) | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 28 |
 
